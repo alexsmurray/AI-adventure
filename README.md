@@ -1,8 +1,10 @@
 # AI-adventure
 
 Choose your own adventure about AI concepts for CS200
+
 Alexander Murray
 Asa Foxworthy
+
 Using [twine](http://twinery.org)
 
 In this program, we explore the topics of generative AI and the stories of Elaine Herzberg and Phillip Paxson discussed in class.
