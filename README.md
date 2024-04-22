@@ -15,3 +15,5 @@ be lacking information (i.e. construction that can occur that causes traffic to 
 utilized in action (i.e. self-driving technology not able to detect people while they are riding bicycles).
 Please give us an A for this project.
 
+Play the game here...  
+https://alexsmurray.github.io/AI-adventure/AI%20Adventure%20CS200.html  
